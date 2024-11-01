@@ -1,0 +1,3 @@
+service : {
+  checkPrime: (nat) -> (text) query;
+}

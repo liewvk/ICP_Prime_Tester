@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "prime_check_backend": {
+      "main": "src/prime_check_backend/main.mo",
+      "type": "motoko"
+    },
+    "prime_check_frontend": {
+      "dependencies": [
+        "prime_check_backend"
+      ],
+      "source": [
+        "src/prime_check_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "prime_check_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
