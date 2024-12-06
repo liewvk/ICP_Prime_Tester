@@ -1,6 +1,8 @@
-# `prime_check`
+# `Prime Number Checker`
 
-Welcome to your new `prime_check` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to your prime number checker project created in ICP. You can check out the canister that was deployed to the IC mainnet with the link below:
+
+https://z47sv-yqaaa-aaaaj-qnfjq-cai.icp0.io/
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
